@@ -22,4 +22,4 @@ It is not necessary to install Unity for this project, because the environment w
 Instructions on how to install the other dependencies can be found [here](https://github.com/udacity/deep-reinforcement-learning#dependencies).
 
 ## Instructions
-The code in the repository can be run by executing the cells of the environment in order. If you want to skip training the agent and just see the trained agent, skip or comment out the cells in section 5.
+The code in the repository can be run by executing the cells of the environment in order. You will first see an untrained agent run random actions. Then the agent gets trained, after which you'll see how the trained agent behaves. If you want to skip training the agent (which takes a while) and just see the trained agent, skip or comment out the cells in section 5.
