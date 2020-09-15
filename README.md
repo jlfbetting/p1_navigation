@@ -1,10 +1,11 @@
 # Project 1: Navigation
 ## Project details
 P1 of the Udacity Deep Reinforcement Learning course. This repository contains the following files:
-* README.md - this file
-* Report.md - report, describing the algorithm and implementation
-* Navigation.ipynb - Jupyter notebook, containing the code
-* checkpoint.pth - trained model
+* `README.md` - this file
+* `Report.md` - report, describing the algorithm and implementation
+* `Navigation.ipynb` - Jupyter notebook, containing the code
+* `checkpoint.pth` - trained model
+* `AvgScores.png` - Plot of the (average) score during the training process
 
 The 'Banana' environment is part of the Unity environment and is made available to the student. Udacity explained the rules as follows:
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
